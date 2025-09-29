@@ -1,6 +1,17 @@
-## Hi there 👋
+## Good that you found your way here. My name is Jørgen, let me show you my work.
+
+I'm a Frontend developer student starting on my second year.
+
+- 🔭 I’m currently working on school projects.
+- 🌱 I’m currently learning html, css, javascript and to set up my frontend portifolio.
+- 🤔 I’m looking to learn more about html, css, javascript.
+- 💬 Ask me about my projects.
+- 📫 How to reach me: Email/ phone/ LinkedIn.
+- ⚡ Fun fact: I'm learning chainmail jewelry.
 
 <!--
+## Hi there 👋
+
 **jb12-art/jb12-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
