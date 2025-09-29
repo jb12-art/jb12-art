@@ -3,7 +3,7 @@
 I'm a Frontend developer student starting on my second school year.
 
 - 🔭 I’m currently working on school projects.
-- 🌱 I’m currently learning html, css, javascript and to set up my frontend portifolio.
+- 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 🤔 I’m looking to learn more about html, css, javascript.
 - 💬 Ask me about my projects.
 - 📫 How to reach me: Email/ phone/ LinkedIn.
