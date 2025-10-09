@@ -1,6 +1,6 @@
 ## Good you found your way here. My name is Jørgen, let me show you my work.
 
-I'm a Frontend developer student starting on my second school year.
+I'm a Frontend developer student at Noroff, I'm starting on my second school year.
 
 - 🔭 I’m currently working on school projects.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
