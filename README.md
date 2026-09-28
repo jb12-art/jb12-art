@@ -7,7 +7,7 @@ I'm a Frontend developer student at Noroff, I'm starting on my second school yea
 - 🤔 I’m looking to learn more about html, css, javascript.
 - 💬 Ask me about my projects.
 - 📫 How to reach me: LinkedIn
-- ⚡ Fun fact: I'm learning chainmail jewelry.
+- ⚡ Fun fact: I'm learning drawing.
 
 <!--
 ## Hi there 👋
