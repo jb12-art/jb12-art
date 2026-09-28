@@ -6,7 +6,7 @@ I'm a Frontend developer student at Noroff, I'm starting on my second school yea
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 🤔 I’m looking to learn more about html, css, javascript.
 - 💬 Ask me about my projects.
-- 📫 How to reach me: jorgen.bjornethun@gmail.com.
+- 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: I'm learning chainmail jewelry.
 
 <!--
