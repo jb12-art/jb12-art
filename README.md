@@ -26,7 +26,7 @@ https://jb12-art.github.io/css-frameworks/
 ### Getting Started
 Installing.
 
-    Clone the repo: git clone https://github.com/jb12-art/JS2.git
+    Clone the repository: git clone https://github.com/jb12-art/JS2.git
     Install the dependencies: npm install
 
 To run the app, run the following commands: 
@@ -47,7 +47,7 @@ https://jb12-art.github.io/SP2/
 ### Getting Started
 
 
-    Clone repository: https://github.com/jb12-art/SP2.git
+    Clone the repository: https://github.com/jb12-art/SP2.git
 
     Open project:
 
@@ -73,7 +73,7 @@ https://jsfw-2025-v1-jorgen-jsfw.vercel.app/
 
 ### Getting Started
 
-    Clone the repository git clone https://github.com/NoroffFEU/jsfw-2025-v1-jorgen-jsfw.git
+    Clone the repository: git clone https://github.com/NoroffFEU/jsfw-2025-v1-jorgen-jsfw.git
 
     Navigate into the project/ if needed.
 
