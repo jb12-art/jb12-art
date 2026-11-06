@@ -1,4 +1,4 @@
-## My name is Jørgen, I'm a Front-end developer. let me show you some of my school work.
+## My name is Jørgen, I'm a Front-end developer under are some of my school work.
 
 - I’m currently working on school projects.
 - I have been learning HTML, CSS, JavaScript, Typescript, React, Vite, GitHub, Supabase.
