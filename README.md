@@ -1,12 +1,10 @@
-## Good you found your way here. My name is Jørgen, let me show you my work.
-
-I'm a Front-end developer student at Noroff, I'm soon done with my second school year.
+## My name is Jørgen, I'm a Front-end developer. let me show you some of my school work.
 
 - I’m currently working on school projects.
 - I have been learning HTML, CSS, JavaScript, Typescript, React, Vite, GitHub, Supabase.
 - I’m looking to learn more about html, css, javascript, Typescript, React and Supabase.
 - Ask me about my projects.
-- How to reach me: LinkedIn
+- How to reach me: GitHub, LinkedIn
 - Fun fact: I'm learning drawing.
 
 # Projects of mine
